@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name: JENISHA TEENA ROSE F**
 
-**Register Number:**
+**Register Number:2305001010**
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
